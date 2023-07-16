@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    font-family: Arial;
+    border: border box;
+}
+
+.nav{
+    height: 56px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+    
+}
+.logo{
+    background-image: url(flipkart\ logo.png);
+    background-size: cover;
+    height: 40px;
+    width: 100%;
+    /* margin-bottom: 10px; */
+    /* display: flex;
+   justify-content: center; */
+}
+.nav-search{
+    display: flex;
+    /* justify-content: space-evenly; */
+    background-color: white;
+    height: 40px;
+    width: 430px; 
+    /* margin-left: 10px; */
+}
+.login{
+   
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    padding: 5px 40px;
+}
+.login button{
+    height: 40px;
+    width: 100px;
+    
+}
+ .search-box{
+    width: 430px;
+    height: 40;
+    display: flex;
+    align-items: center;
+    outline: none;
+    border: none;
+    
+} 
+.nav-cart{
+    font-size: 0.85rem;
+}
+.search-icon i{
+    color:blue;
+    background-color:white;
+    margin-top: 15px;
+    align-items: center;
+    margin-right: 15px;
+}
+.shop-section{
+    height: 125px;
+  background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.box-img{
+    height: 90px;
+    width: 100px;
+}
+.shop-section p{
+    color: #212121;
+    margin-left: 15px;
+   margin-top: 10px;
+}
+.hero-section{
+    height: 280px;
+  background-color: antiquewhite;
+}
+.hero-img{
+    height: 280px;
+    background-size: cover;
+}
+.shop-products{
+    height:360px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.bo-img{
+    height: 300px;
+   background-size: cover;
+  width: 400px;
+    margin-top: 20px;
+}
+.bo-content p{
+    color:#212121;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+.end{
+    height: 350px;
+    background-color: rgba(0, 0, 0, 0.589);
+    display: flex;
+    justify-content: space-evenly;
+}
+.about p{
+color: #ffffff;
+margin-top: 10px;
+}
+.about h3{
+    margin-top: 7px;
+}
+.help p{
+   color: #ffffff;
+   margin-top: 10px;
+}
+.help h3{
+    margin-top: 7px;
+}
+.consumer-policy p{
+    color: #ffffff;
+    margin-top: 10px;
+}
+.consumer-policy h3{
+margin-top: 7px;
+}
+.social p{
+    color: #ffffff;
+    margin-top: 10px;
+}
+.social h3{
+    margin-top: 10px;
+}
+
+   
+
+
+
